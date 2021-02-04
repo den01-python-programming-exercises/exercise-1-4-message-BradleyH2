@@ -3,6 +3,5 @@ def main():
     message = input("Write a message...")
 def user_input():
   input_string = input('Bye')
-
 if __name__ == '__main__':
     main()
